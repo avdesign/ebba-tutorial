@@ -14,6 +14,7 @@ class EtqController extends Controller
      */
     public function index()
     {
+        dd('index');
         return view('etq::index');
     }
 
