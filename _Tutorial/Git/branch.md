@@ -21,3 +21,9 @@ Para remover um branch utilize o comando
 ````
 $ git branch -D nome-do-branch
 ````
+
+* Se você está no branch master e roda um merge de um outro branch, isso siginifica que:
+````
+Todos os commits que existem no outro branch serão mesclados no branch master 
+````
+* 

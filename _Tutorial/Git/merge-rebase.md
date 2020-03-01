@@ -15,3 +15,8 @@ $ git rebase --skip
 ````
 git rebase --abort
 ````
+
+* Qual a principal diferença entre Merge e Rebase?
+````
+O merge não reordena os commits e ainda muitas vezes gera um commit adicional para ser concluído. O rebase reordena os commits, não gerando assim um commit adicional. 
+````
