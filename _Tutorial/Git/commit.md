@@ -12,3 +12,7 @@ $ git commit -m "Nome do Commit"
 ````
 $ git commit -a -m "Comitando todos arquivos juntos"
 ````
+* Para ver o log dos útimos dias 
+````
+$ git log --since=2.days
+````
