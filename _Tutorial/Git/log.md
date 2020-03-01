@@ -11,11 +11,11 @@ $ git log -p
 `````
 $ git log -p -2
 ````
-* Ver as estatisticas dos stats +linhas -Linhas Deletadas
+* Ver as estatisticas dos stats +linhas -Linhas Deletadas:
 ````
 $ git log --stat
 ````
-* Ver os comites em uma linha só:
+* Ver os comites em uma linha:
 ````
-
+$ git log --pretty=oneline
 ````
