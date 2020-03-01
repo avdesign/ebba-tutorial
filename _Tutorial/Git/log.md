@@ -19,3 +19,7 @@ $ git log --stat
 ````
 $ git log --pretty=oneline
 ````
+* Ver has, quem, hórario e o commit:
+````
+ git log --pretty=format"%h - %an, %ar : %s"
+````
